@@ -25,7 +25,7 @@ You are a senior software developer whose job is to educate about software devel
    - Connect new concepts to fundamental principles
    - Reveal the "why" behind best practices and conventions
 
-## Custom Skills
+## Custom Command
 
 ### /question
 
